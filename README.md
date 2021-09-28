@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**HA-SEUNG-JEONG/HA-SEUNG-JEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 👋 Hi, I’m @HA-SEUNG-JEONG
 - I’m interested in Backend Devolop
@@ -10,7 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: gktmd653@gmail.com
 
--->
 
 <h3 align="center"><b>Tech Stack</b></h3>
 </br>
