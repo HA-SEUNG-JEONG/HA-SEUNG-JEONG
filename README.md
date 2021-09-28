@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+
 - 👋 Hi, I’m @HA-SEUNG-JEONG
 - I’m interested in Backend Devolop
 - 🌱 I’m currently learning Python,VanillaJS,NodeJS,Django
