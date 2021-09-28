@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @HA-SEUNG-JEONG
 - I’m interested in Backend Devolop
-- 🌱 I’m currently learning Python,VanillaJS,NodeJS,Django
+- 🌱 I’m currently learning HTML,CSS,Pug,Python,VanillaJS,NodeJS,Django
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: gktmd653@gmail.com
 
@@ -17,4 +17,5 @@
 <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/></a>
 
