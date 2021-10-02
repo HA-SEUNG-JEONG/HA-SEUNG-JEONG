@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @HA-SEUNG-JEONG
 - 👀 I’m interested in Backend Devolop
-- 🌱 I’m currently learning HTML,CSS,Pug,Python,VanillaJS,NodeJS,Django
+- 🌱 I’m currently learning HTML,CSS,Pug,Python,VanillaJS,NodeJS,Django,MongoDB
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: gktmd653@gmail.com
 
