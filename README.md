@@ -5,7 +5,7 @@
 - 👀 I’m interested in Backend Devolop
 - 🌱 I’m currently learning HTML,CSS,Pug,Python,VanillaJS,NodeJS,Django,MongoDB
 - 👯 I’m looking for an employment opportunity.
-- 📫 How to reach me: gktmd653@gmail.com
+- 📫 How to reach me: gktmd653@gmail.com/gktmd652@naver.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HA-SEUNG-JEONG)](https://github.com/anuraghazra/github-readme-stats)
 
