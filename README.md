@@ -34,7 +34,7 @@
 </br>
 <p align="center">
 <a align="center" href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a align="center" href="https://www.notion.so/5cacd62e352240a4bdfc90589d91bb63?v=0fea4135fb1641c48a095f5c10554726" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a align="center" href="https://www.notion.so/5cacd62e352240a4bdfc90589d91bb63?v=0fea4135fb1641c48a095f5c10554726" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHA-SEUNG-
 https://www.notion.so/5cacd62e352240a4bdfc90589d91bb63?v=0fea4135fb1641c48a095f5c10554726
