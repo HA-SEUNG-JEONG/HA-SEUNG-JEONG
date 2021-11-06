@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white"/></a>
 
 <h3 align="center"><b>Blog</b></h3>
 </br>
