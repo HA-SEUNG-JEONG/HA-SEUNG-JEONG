@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Heorku-430098?style=flat-square&logo=Heorku&logoColor=white"/></a>
 
 <h3 align="center"><b>Blog</b></h3>
 </br>
