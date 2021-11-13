@@ -32,6 +32,10 @@
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/></a>
+
+##
 
 <h3 align="center"><b>Blog</b></h3>
 </br>
