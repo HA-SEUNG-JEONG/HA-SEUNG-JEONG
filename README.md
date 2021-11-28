@@ -41,10 +41,10 @@
   
 <h3 align="center"><b>Project</b></h3>
 <div>
-  <li><a href="https://wetube-reloads.herokuapp.com/">유튜브 클론</a></li>
-  <li><a href="https://soft-fly-17.loca.lt/">줌 클론</a></li>
-  <li><a href="https://ha-seung-jeong.github.io/chromemade/">To do List</a></li>
-  <li><a href="https://ha-seung-jeong.github.io/create-react-app/">React 영화 웹 서비스 클론</li>
-  <li><a href="https://ha-seung-jeong.github.io/kokokclone2021/">카카오톡 레이아웃</li>
+  <li><a href="https://wetube-reloads.herokuapp.com/" style="font-weight:600">Youtube Clone</a></li>
+  <li><a href="https://soft-fly-17.loca.lt/">Zoom CLone</a></li>
+  <li><a href="https://ha-seung-jeong.github.io/chromemade/">To do List Using JavaScript</a></li>
+  <li><a href="https://ha-seung-jeong.github.io/create-react-app/">Movie Web Service Using React</li>
+  <li><a href="https://ha-seung-jeong.github.io/kokokclone2021/">Kakao Talk layout</li>
 </div>
 
