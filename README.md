@@ -39,10 +39,10 @@
 <p align="center">
 <a align="center" href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   
-<h3 align="center"><b>Project</b></h3>
+<h3><b>Project</b></h3>
 <div>
    <p><a href="https://wetube-reloads.herokuapp.com/" style="color:red">Youtube Clone</a></p>
-   <p><a href="https://soft-fly-17.loca.lt/" style="color:red">Zoom CLone</a></p>
+   <p><a href="https://soft-fly-17.loca.lt/" style="color:red">Zoom Clone</a></p>
    <p><a href="https://ha-seung-jeong.github.io/chromemade/" style="color:red">To do List Using JavaScript</a></p>
    <p><a href="https://ha-seung-jeong.github.io/create-react-app/" style="color:red">Movie Web Service Using React</a></p>
    <p><a href="https://ha-seung-jeong.github.io/kokokclone2021/" style="color:red">Kakao Talk layout</a></p>
