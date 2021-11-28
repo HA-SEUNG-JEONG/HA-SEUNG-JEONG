@@ -43,4 +43,4 @@
 <div>
   <li><a href="https://wetube-reloads.herokuapp.com/">유튜브 클론</a></li>
 </div>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHA-SEUNG-JEONG&count_bg=%23B6B621&title_bg=%23724141&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
