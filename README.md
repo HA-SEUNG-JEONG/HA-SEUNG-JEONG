@@ -38,6 +38,8 @@
 </br>
 <p align="center">
 <a align="center" href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
+<br/>
   
 # Project
 <br/>
