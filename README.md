@@ -39,13 +39,13 @@
 <p align="center">
 <a align="center" href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   
-<h2><b>Project</b></h2>
-<div>
-   ### 유튜브 클론(Using NodeJS) 👉 Wetube(https://wetube-reloads.herokuapp.com/)
-   ### 줌 클론(Using NodeJS,SocketIO) 👉 Noom(https://soft-fly-17.loca.lt/)
-   ### To Do list 👉 To Do list(https://ha-seung-jeong.github.io/chromemade/)
-   ### 영화 웹 서비스(Using React) 👉 ReactMovie(https://ha-seung-jeong.github.io/create-react-app/)
-   ### 카카오톡 레이아웃(Using HTML,CSS) 👉 KoKoaTalk(https://ha-seung-jeong.github.io/kokokclone2021/)
-</div>
+# Project
+<br/>
+ ### 유튜브 클론(Using NodeJS) 👉 Wetube(https://wetube-reloads.herokuapp.com/)
+ ### 줌 클론(Using NodeJS,SocketIO) 👉 Noom(https://soft-fly-17.loca.lt/)
+ ### To Do list 👉 To Do list(https://ha-seung-jeong.github.io/chromemade/)
+ ### 영화 웹 서비스(Using React) 👉 ReactMovie(https://ha-seung-jeong.github.io/create-react-app/)
+ ### 카카오톡 레이아웃(Using HTML,CSS) 👉 KoKoaTalk(https://ha-seung-jeong.github.io/kokokclone2021/)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHA-SEUNG-JEONG%2FHA-SEUNG-JEONGd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
