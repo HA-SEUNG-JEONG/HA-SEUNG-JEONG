@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/WebPack-8DD6F9?style=flat-square&logo=WebPack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter NoteBook-F37626?style=flat-square&logo=Jupyter NoteBook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
 <h3 align="center"><b>Blog</b></h3>
 <br/>
