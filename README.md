@@ -2,9 +2,9 @@
 
 <div align="center">
   <ul> 👋 Hi, I’m @HA-SEUNG-JEONG</ul>
-  <ul>👀 I’m interested in Back End Devolop</ul>
+  <ul>👀 I’m interested in Front End Devolop</ul>
   <ul>🌱 I’m currently learning HTML,CSS,Pug,Python,VanillaJS,NodeJS,Django,MongoDB etc...</ul>
-  <ul>👯 I’m looking for an employment(Back End Developer) opportunity.</ul>
+  <ul>👯 I’m looking for an employment(Front End Developer) opportunity.</ul>
   <ul>📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com</ul>
 
 
