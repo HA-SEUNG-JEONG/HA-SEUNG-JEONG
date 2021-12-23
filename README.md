@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-  <ul> 👋 Hi, I’m @HA-SEUNG-JEONG</ul>
+  <ul> 👋 Hi, I’m HA-SEUNG-JEONG</ul>
   <ul>👀 I’m interested in Front End Devolop</ul>
   <ul>🌱 I’m currently learning Django,React,TypeScript</ul>
   <ul>👯 I’m looking for an employment(Front End Developer) opportunity.</ul>
