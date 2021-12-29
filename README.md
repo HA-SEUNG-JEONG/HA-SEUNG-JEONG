@@ -65,7 +65,7 @@
 <h2>Project</h2>
  
 ### 유튜브 클론(Using NodeJS) 👉 [Wetube](https://wetube-reloads.herokuapp.com/)
-### 영화 웹 서비스(Using React) 👉 [ReactMovie](https://ha-seung-jeong.github.io/create-react-app/)
+### 영화 웹 서비스(Using React) 👉 [ReactMovie](https://ha-seung-jeong.github.io/reactmovie/)
 ### 카카오톡 레이아웃(Using HTML,CSS) 👉 [KoKoaTalk](https://ha-seung-jeong.github.io/kokokclone2021/)
 ### Coin Tracker (Using React,TypeScript) 👉 [Coin Tracker](https://ha-seung-jeong.github.io/reactmasterclass/)
 
