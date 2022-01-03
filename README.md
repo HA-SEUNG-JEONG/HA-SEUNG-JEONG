@@ -55,6 +55,7 @@
 <br/>
 <p align="center">
 <a align="center" href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a align="center" href="https://www.notion.so/6d6424449c244b679411293f29b5ac82" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
