@@ -2,7 +2,7 @@
 
 <div align="center">
   <ul> 👋 Hi, I’m HA-SEUNG-JEONG</ul>
-  <ul>🌱 I’m currently learning Django,React,TypeScript</ul>
+  <ul>🌱 I’m currently learning Django,React,TypeScript,Python</ul>
   <ul>📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com</ul>
 
 
