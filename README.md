@@ -2,7 +2,7 @@
 
 <div align="center">
   <ul> 👋 Hi, I’m HA-SEUNG-JEONG</ul>
-  <ul>🌱 I’m currently learning Django,React,TypeScript,Python</ul>
+  <ul>🌱 I’m currently learning VanillaJS,React,TypeScript,NextJS</ul>
   <ul>📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com</ul>
 
 
@@ -22,11 +22,6 @@
 <img height='25' src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
 <br>
 
-<strong>Back End</strong>
-<br/>
-<p align="center">
-<img  height='25' src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<img  height='25' src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
 <br>
 
