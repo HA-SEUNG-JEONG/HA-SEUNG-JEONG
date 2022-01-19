@@ -4,8 +4,10 @@
   <ul> 👋 Hi, I’m HA-SEUNG-JEONG</ul>
   <ul>🌱 I’m currently learning VanillaJS,React,TypeScript,NextJS,python</ul>
   <ul>📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com</ul>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={gktmd652})](https://solved.ac/{gktmd652})
+</div>
+  
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
+ 
 
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HA-SEUNG-JEONG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 |--|--|
