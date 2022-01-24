@@ -12,6 +12,7 @@
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HA-SEUNG-JEONG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 |--|--|
 
+<p align="center">
 <strong>Front End</strong>
 <br/>
 <p align="center">
@@ -27,7 +28,7 @@
 
 <br>
 
-
+<p align="center">
 <strong>DB</strong>
 <br/>
 <p align="center">
@@ -36,6 +37,7 @@
 <img  height='25' src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img height='25' src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 
+<p align="center">
 <strong>Etc</strong>
 <br/>
 <p align="center">
