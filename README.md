@@ -2,7 +2,8 @@
 
 <div align="center">
   <ul> 👋 Hi, I’m HA-SEUNG-JEONG</ul>
-  <ul>🌱 I’m currently learning VanillaJS,React,TypeScript,NextJS,python</ul>
+  <ul>🌱 I’m currently learning **VanillaJS,React,TypeScript,NextJS,Python**</ul>
+  
   <ul>📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com</ul>
 </div>
   
