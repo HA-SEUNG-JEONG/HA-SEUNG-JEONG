@@ -1,11 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
-<div align="center">
-  <ul> 👋 Hi, I’m HA-SEUNG-JEONG</ul>
-  <ul>🌱 I’m currently learning **VanillaJS,React,TypeScript,NextJS,Python**</ul>
-  
-  <ul>📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com</ul>
-</div>
+- 🌱 I’m currently learing **VanillaJS,React,TypeScript,NextJS,Python**
+- 📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com
   
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
  
