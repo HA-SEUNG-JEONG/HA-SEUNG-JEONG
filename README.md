@@ -7,7 +7,9 @@
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
 
 
- 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 # 💻Tech Stack
