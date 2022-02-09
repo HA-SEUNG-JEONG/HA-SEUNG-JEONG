@@ -2,11 +2,13 @@
 
 - 🌱 I’m currently learing **VanillaJS,React,TypeScript,NextJS,Python**
 - 📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
  
 
 
