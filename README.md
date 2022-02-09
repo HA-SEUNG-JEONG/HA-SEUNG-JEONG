@@ -3,8 +3,7 @@
 - 🌱 I’m currently learing **VanillaJS,React,TypeScript,NextJS,Python**
 - 📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HA-SEUNG-JEONG)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
 
 
@@ -16,6 +15,9 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=HA-SEUNG-JEONG&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HA-SEUNG-JEONG&theme=radical&hide_border=false)<br/>
+<!--START_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HASEUNGJEONG)](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:waka-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
