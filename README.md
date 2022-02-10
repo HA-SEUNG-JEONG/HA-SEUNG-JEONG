@@ -7,6 +7,13 @@
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
 
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HA-SEUNG-JEONG&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
 <!--START_SECTION:waka-->
 ```text
 Week: 03 February, 2022 - 09 February, 2022
@@ -18,13 +25,9 @@ HTML         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 JSON         4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.24 % 
 ```
 <!--END_SECTION:waka-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HA-SEUNG-JEONG&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 ![](https://komarev.com/ghpvc/?username=HA-SEUNG-JEONG&label=Visitors+Count&color=brightgreen)
+
+
 
 
 
