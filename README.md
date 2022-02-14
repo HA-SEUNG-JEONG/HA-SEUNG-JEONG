@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learing **VanillaJS,React,TypeScript,NextJS,Python**
 - 📫 How to reach me: gktmd653@gmail.com / gktmd652@naver.com
+- <a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/)](https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/)
 
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
