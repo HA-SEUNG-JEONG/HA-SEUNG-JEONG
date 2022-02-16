@@ -1,6 +1,14 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🌱 I’m currently learing **VanillaJS,React,TypeScript,NextJS,Python**
+- 🌱 I’m currently learing 
+
+<img alt="NextJS" src ="https://img.shields.io/badge/NextJS-000000.svg?&style=for-the-badge&logo=NextJS&logoColor=white"/> <img alt="GraphQL" src ="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"/>
+ <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+ <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+ <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+
+
+
 - 📫 How to reach me: gktmd653@gmail.com
 - <a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/)](https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/)
