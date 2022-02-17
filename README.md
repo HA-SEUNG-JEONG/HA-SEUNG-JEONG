@@ -26,13 +26,15 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
+Week: 10 February, 2022 - 16 February, 2022
 
-Total: 4 hrs 16 mins
+Total: 6 hrs 35 mins
 
-TypeScript   2 hrs 22 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.50 % 
-Python       1 hr 48 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.30 % 
-JSON         4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.73 % 
+TypeScript   4 hrs 25 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀   66.38 % 
+JSON         1 hr 7 mins     ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.73 % 
+Python       51 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.93 % 
+Other        5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.29 % 
+Markdown     4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.15 % 
 ```
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=HA-SEUNG-JEONG&label=Visitors+Count&color=brightgreen)
