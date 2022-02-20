@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🌱 I’m currently learing 
+<h3 align="left">🌱 I’m currently learing </h1>
 
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="TailWind CSS" src ="https://img.shields.io/badge/TailWind CSS-06B6D4.svg?&style=for-the-badge&logo=TailWind CSS&logoColor=white"/>  <img alt="NextJS" src ="https://img.shields.io/badge/NextJS-000000.svg?&style=for-the-badge&logo=NextJS&logoColor=white"/> <img alt="GraphQL" src ="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"/>
  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
@@ -8,9 +8,9 @@
  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
 
 
-
-- 📫 How to reach me 👉 <a href="mailto:gktmd653@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-- <a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+<h3 align="left">📫 How to reach me</h1>
+<a href="mailto:gktmd653@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 
