@@ -9,11 +9,12 @@
 
 
 
-- 📫 How to reach me: gktmd653@gmail.com
-- <a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/)](https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/)
+- 📫 How to reach me 👉 <a href="mailto:gktmd653@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- <a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 
+#
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
 
 
