@@ -105,21 +105,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/HA-SEUNG-JEONG/HA-SEUNG-JEONG/main/charts/bar_graph.png) 
-
-
- Last Updated on 26/02/2022 01:01:42 UTC
-<!--END_SECTION:waka-->
-![](https://komarev.com/ghpvc/?username=HA-SEUNG-JEONG&label=Visitors+Count&color=brightgreen)
-
-
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
-</div>
 
 
   
