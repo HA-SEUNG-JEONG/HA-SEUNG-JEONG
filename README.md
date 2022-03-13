@@ -1,54 +1,54 @@
-<h1 align="left">Hi there 👋</h1>
-<!--  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="80" height="80" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" /> -->
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
 
-<h3 align="left">
- 🌱I'm currently learning...</div></h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="TailWind CSS" src ="https://img.shields.io/badge/TailWind CSS-06B6D4.svg?&style=for-the-badge&logo=TailWind CSS&logoColor=white"/> <img alt="Styledcomponents" src ="https://img.shields.io/badge/Styledcomponents-DB7093.svg?&style=for-the-badge&logo=Styledcomponents&logoColor=white"/> <img alt="NextJS" src ="https://img.shields.io/badge/NextJS-000000.svg?&style=for-the-badge&logo=NextJS&logoColor=white"/> <img alt="GraphQL" src ="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"/>
- <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
- <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
- 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=HA-SEUNG-JEONG.HA-SEUNG-JEONG)
 
+</p>
+<div size='20px'> Hi! My name is Jeong Ha Seung. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-<h3 align="left">Blog</h3>
-<a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-<a href="https://www.notion.so/Jeong-Ha-Seung-bec1eba698104e8b8157f5a0aec7221b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-
-<h3 align="left">📫 How to reach me</h3>
-<a href="mailto:gktmd653@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-#
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
+- 🔭 I’m currently working on **Instagram Project**, **Carrot-market Project**
+
+- 🌱 I’m currently learning **React**,**TypeScript**,**GraphQL**,**Python** 
+
+- 💬 Talk to me about 
+ I'm currently learning JavaScript,TypeScript,React. I don't think there is an end in the world of programming. That is why I always want to continue on the path of learning with a humble attitude. 
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/HA-SEUNG-JEONG?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/HA-SEUNG-JEONG?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/HA-SEUNG-JEONG?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/HA-SEUNG-JEONG?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
+<a href= https://github.com/HA-SEUNG-JEONG?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/HA-SEUNG-JEONG?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
+<a href= https://github.com/HA-SEUNG-JEONG?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
+<a href= https://github.com/HA-SEUNG-JEONG?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/?locale=en_US'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/HA-SEUNG-JEONG'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HA-SEUNG-JEONG&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Metrics](https://metrics.lecoq.io/HA-SEUNG-JEONG?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2039%20mins-blue)
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-**🐱 My GitHub Data** 
 
-> 🏆 613 Contributions in the Year 2022
- > 
-> 📦 54.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
+<br>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
 **I'm an Early 🐤** 
 
 ```text
