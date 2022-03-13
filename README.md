@@ -9,7 +9,7 @@
 
 <h3 align="left">Blog</h1>
 <a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-<a href="https://www.notion.so/Jeong-Ha-Seung-bec1eba698104e8b8157f5a0aec7221b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=velog&logoColor=white"></a>
+<a href="https://www.notion.so/Jeong-Ha-Seung-bec1eba698104e8b8157f5a0aec7221b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 
 <h3 align="left">📫 How to reach me</h1>
