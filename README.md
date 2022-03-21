@@ -2,6 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
+
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -41,8 +42,8 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+ 
 
-  
 <h2>Project</h2>
  
 ### 유튜브 클론(Using NodeJS) 👉 [Wetube](https://wetube-reloads.herokuapp.com/)
@@ -50,6 +51,9 @@
 ### Coin Tracker (Using React,TypeScript) 👉 [Coin Tracker](https://ha-seung-jeong.github.io/reactmasterclass/)
 ### 트렐로 클론(Using TypeScript,React) 👉 [Trello](https://ha-seung-jeong.github.io/React-Trello/)
 ### 넷플릭스 클론(Using TypeScript,React) 👉[NomFlix](https://ha-seung-jeong.github.io/nomflix/)
+ 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHA-SEUNG-JEONG%2FHA-SEUNG-JEONG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHA-SEUNG-JEONG%2FHA-SEUNG-JEONG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
