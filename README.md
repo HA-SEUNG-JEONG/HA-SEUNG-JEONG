@@ -19,14 +19,14 @@
 
 - 🔭 I’m currently working on **Instagram Project**, **Carrot-market Project**
 
-- 🌱 I’m currently learning **React**,**TypeScript**,**GraphQL**,**Python** 
+- 🌱 I’m currently learning **React**,**TypeScript**,**Javascript**
 
 - 💬 Talk to me about 
  I'm currently learning JavaScript,TypeScript,React. I don't think there is an end in the world of programming. That is why I always want to continue on the path of learning with a humble attitude. 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,graphql,js,py,react,ts,tailwind,sass,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,sass,vscode" />
   </a>
 </p>
 
@@ -42,15 +42,7 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
- 
 
-<h2>Project</h2>
- 
-### 유튜브 클론(Using NodeJS) 👉 [Wetube](https://wetube-reloads.herokuapp.com/)
-### 영화 웹 서비스(Using React) 👉 [ReactMovie](https://ha-seung-jeong.github.io/reactmovie/)
-### Coin Tracker (Using React,TypeScript) 👉 [Coin Tracker](https://ha-seung-jeong.github.io/reactmasterclass/)
-### 트렐로 클론(Using TypeScript,React) 👉 [Trello](https://ha-seung-jeong.github.io/React-Trello/)
-### 넷플릭스 클론(Using TypeScript,React) 👉[NomFlix](https://ha-seung-jeong.github.io/nomflix/)
  
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652">
 
