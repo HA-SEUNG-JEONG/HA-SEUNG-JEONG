@@ -35,7 +35,8 @@
 <a href = 'https://www.github.com/HA-SEUNG-JEONG'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
  <h2>Blog</h2>
- <a href="https://velog.io/@gktmd652">[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gktmd652)](https://velog.io/@gktmd652) </a>
+ 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gktmd652)](https://velog.io/@gktmd652) 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
