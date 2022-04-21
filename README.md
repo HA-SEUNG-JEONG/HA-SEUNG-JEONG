@@ -17,7 +17,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **Instagram Project**, **Carrot-market Project**
 
 - 🌱 I’m currently learning **React**,**TypeScript**,**Javascript**
 
@@ -34,6 +33,9 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/?locale=en_US'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/HA-SEUNG-JEONG'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+ 
+ <h2>Blog</h2>
+ <a href="https://velog.io/@gktmd652">[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gktmd652)](https://velog.io/@gktmd652) </a>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
