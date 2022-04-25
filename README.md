@@ -31,13 +31,14 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/?locale=en_US'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://interesting-spectacles-668.notion.site/Jeong-Ha-Seung-bec1eba698104e8b8157f5a0aec7221b'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/HA-SEUNG-JEONG'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
  <h2>Blog</h2>
  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gktmd652)](https://velog.io/@gktmd652) 
-
+<a href="https://iambeginnerdeveloper.notion.site/cf7d747d82964f64a772111af68ad5f3" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+ <a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-12B886?style=flat-square&logo=notion&logoColor=white"/></a>
+ 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 ![Metrics](https://metrics.lecoq.io/HA-SEUNG-JEONG?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
