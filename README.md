@@ -25,16 +25,19 @@
 
 
 
-<h3 align="center">📫 How to reach me</h1>
+<h3 align="center">📫 How to reach me</h3>
 <p align="center">
  <a href="mailto:gktmd653@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </p>
 
 
-<h3 align="center">✨ Stats</h1>
+<h3 align="left">✨ Stats</h3>
 
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HA-SEUNG-JEONG&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652)](https://solved.ac/gktmd652/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact)](https://github.com/HA-SEUNG-JEONG/github-readme-stats)
+
+  ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HA-SEUNG-JEONG&show_icons=true&theme=radical)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gktmd652)](https://solved.ac/gktmd652/)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact)](https://github.com/HA-SEUNG-JEONG/github-readme-stats)
 
