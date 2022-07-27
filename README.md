@@ -25,8 +25,9 @@
  </h3>
 <p align="center">
   <a href="https://helpful-swan-327bb4.netlify.app/" target="_blank">
- </a> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify" />
+    <a href="https://helpful-swan-327bb4.netlify.app">
+      <img src="https://skillicons.dev/icons?i=netlify" />
+    </a>
   </a>
 
 </p>
