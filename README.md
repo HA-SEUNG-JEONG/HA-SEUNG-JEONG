@@ -19,6 +19,10 @@
  </h3>
 <p align="center">
   <a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+<h3 align="center">
+ Resume
+ </h3>
+ <p align="center">
   <a href="https://interesting-spectacles-668.notion.site/bec1eba698104e8b8157f5a0aec7221b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=velog&logoColor=white"></a>
   <h3 align="center">
  Project & Minutes
