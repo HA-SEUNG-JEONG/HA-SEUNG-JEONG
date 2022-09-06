@@ -53,3 +53,5 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact)](https://github.com/HA-SEUNG-JEONG/github-readme-stats)
 
+### My Latest Post
+<strong><a href="https://helpful-swan-327bb4.netlify.app/2022/minutes/3/">'쏙쏙 들어오는 함수형 코딩' 독서 스터디 회고</a></strong>
