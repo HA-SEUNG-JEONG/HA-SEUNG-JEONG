@@ -49,9 +49,9 @@
 <h3 align="left">✨ Stats</h3>
 
 
-  ![Haseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HA-SEUNG-JEONG&show_icons=true&theme=radical)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact)](https://github.com/HA-SEUNG-JEONG/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HA-SEUNG-JEONG&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact&theme=tokyonight)
 
 ### My Latest Post
 <strong><a href="https://helpful-swan-327bb4.netlify.app/2022/minutes/3/">'쏙쏙 들어오는 함수형 코딩' 독서 스터디 회고</a></strong>
