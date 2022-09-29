@@ -56,4 +56,4 @@
 ### My Latest Post
 <strong><a href="https://helpful-swan-327bb4.netlify.app/2022/minutes/3/">'쏙쏙 들어오는 함수형 코딩' 독서 스터디 회고</a></strong>
 
-![](https://gh-hits.nomadcoders.workers.dev/view?username=$HA-SEUNG-JEONG)
+![](https://gh-hits.nomadcoders.workers.dev/view?username=HA-SEUNG-JEONG)
