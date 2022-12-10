@@ -46,11 +46,12 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact&theme=tokyonight)
 
 ### My Latest Post
-<strong><a href="https://helpful-swan-327bb4.netlify.app/2022/minutes/3/">'쏙쏙 들어오는 함수형 코딩' 독서 스터디 회고</a></strong>
+<strong><a href="https://haseungdev-axdj369o3-ha-seung-jeong.vercel.app/2022/minutes/Codestates/project/3/">메인 프로젝트를 끝마치며</a></strong>
+<br/>
+<strong><a href="https://haseungdev-axdj369o3-ha-seung-jeong.vercel.app/2022/error/8/">FontAwesome 버그 해결</a></strong>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=HA-SEUNG-JEONG)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=HA-SEUNG-JEONG&theme=react-dark" alt="Github Activity Graph" width="100%" />
 <a href="https://github.com/HA-SEUNG-JEONG">
   <img align="center" width="49%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/wakatime?username=HASEUNGJEONG&layout=compact&theme=tokyonight&langs_count=8" alt="HA-SEUNG-JEONG" />
 </a>
