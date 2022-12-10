@@ -15,23 +15,16 @@
 
 
 <h3 align="center">
- Blog
- </h3>
-<p align="center">
-  <a href="https://velog.io/@gktmd652" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-<h3 align="center">
- Resume
+ 이력
  </h3>
  <p align="center">
   <a href="https://interesting-spectacles-668.notion.site/bec1eba698104e8b8157f5a0aec7221b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=velog&logoColor=white"></a>
   <h3 align="center">
- Project & Minutes
+ 기술블로그
  </h3>
 <p align="center">
-  <a href="https://helpful-swan-327bb4.netlify.app/" target="_blank">
-    <a href="https://helpful-swan-327bb4.netlify.app">
-      <img src="https://skillicons.dev/icons?i=netlify" />
-    </a>
+  <a href="https://haseungdev-axdj369o3-ha-seung-jeong.vercel.app/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 
 </p>
