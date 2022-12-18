@@ -45,10 +45,6 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact&theme=tokyonight)
 
-### My Latest Post
-<strong><a href="https://haseungdev-axdj369o3-ha-seung-jeong.vercel.app/2022/minutes/Codestates/project/3/">메인 프로젝트를 끝마치며</a></strong>
-<br/>
-<strong><a href="https://haseungdev-axdj369o3-ha-seung-jeong.vercel.app/2022/error/8/">FontAwesome 버그 해결</a></strong>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=HA-SEUNG-JEONG)
 
