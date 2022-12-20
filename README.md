@@ -23,7 +23,7 @@
  기술블로그
  </h3>
 <p align="center">
-  <a href="https://haseungdev-axdj369o3-ha-seung-jeong.vercel.app/" target="_blank">
+  <a href="https://haseungdev-qiv01fbtd-ha-seung-jeong.vercel.app/" target="_blank">
       <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 
