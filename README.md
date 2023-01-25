@@ -51,3 +51,5 @@
 <a href="https://github.com/HA-SEUNG-JEONG">
   <img align="center" width="49%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/wakatime?username=HASEUNGJEONG&layout=compact&theme=tokyonight&langs_count=8" alt="HA-SEUNG-JEONG" />
 </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HA-SEUNG-JEONG&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
