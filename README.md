@@ -14,11 +14,6 @@
 
 
 
-<h3 align="center">
- 이력서
- </h3>
- <p align="center">
-  <a href="https://www.notion.so/af5fbfd44f78495e8b992a82d6068f66" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=velog&logoColor=white"></a>
   <h3 align="center">
 블로그
  </h3>
