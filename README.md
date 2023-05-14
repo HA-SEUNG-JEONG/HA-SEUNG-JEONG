@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jeong-Ha-Seung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=https://github.com/HA-SEUNG-JEONG&descAlignY=52&descAlign=66)
-### 프론트엔드 개발자 정하승입니다. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+## <p align="center">프론트엔드 개발자 정하승입니다.</p>
 
 <h3 align="center">Tech & Tools</h3>
 
