@@ -19,7 +19,7 @@
  </h3>
 <p align="center">
   <a href="https://haseungdev.vercel.app/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vercel" />
+      <img src="https://skillicons.dev/icons?i=gatsby" />
   </a>
 
 </p>
@@ -33,16 +33,3 @@
 <a href="https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </p>
 
-
-<h3 align="left">✨ Stats</h3>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HA-SEUNG-JEONG&show_icons=true&theme=tokyonight)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-SEUNG-JEONG&layout=compact&theme=tokyonight)
-
-
-![](https://gh-hits.nomadcoders.workers.dev/view?username=HA-SEUNG-JEONG)
-
-<a href="https://github.com/HA-SEUNG-JEONG">
-  <img align="center" width="49%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/wakatime?username=HASEUNGJEONG&layout=compact&theme=tokyonight&langs_count=8" alt="HA-SEUNG-JEONG" />
-</a>
