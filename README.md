@@ -15,7 +15,7 @@
 
 
   <h3 align="center">
-블로그 이전 작업 
+블로그 이전 작업중...
  </h3>
 <p align="center">
   <a href="https://nextjs-blog-haseungdev.vercel.app/" target="_blank">
