@@ -19,7 +19,7 @@
  </h3>
 <p align="center">
   <a href="https://nextjs-blog-haseungdev.vercel.app/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gatsby" />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss" />
   </a>
 
 </p>
