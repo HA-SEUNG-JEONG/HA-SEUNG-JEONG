@@ -15,10 +15,10 @@
 
 
   <h3 align="center">
-블로그
+블로그 이전 작업 
  </h3>
 <p align="center">
-  <a href="https://haseungdev.vercel.app/" target="_blank">
+  <a href="https://nextjs-blog-haseungdev.vercel.app/" target="_blank">
       <img src="https://skillicons.dev/icons?i=gatsby" />
   </a>
 
