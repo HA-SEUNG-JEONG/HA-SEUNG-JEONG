@@ -28,7 +28,7 @@
 Contribution
  </h3>
 <p align="center">
- <a href='https://github.com/HA-SEUNG-JEONG/Nextjs.kr'>Next.js 공식 문서 번역</a> 참여 중
+ <a href='https://github.com/Nextjs-kr/Nextjs.kr'>Next.js 공식 문서 번역</a> 참여 중
 </p>
 
 <h3 align="center">📫 How to reach me</h3>
