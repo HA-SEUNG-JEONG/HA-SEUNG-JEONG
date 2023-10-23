@@ -24,13 +24,6 @@
 
 </p>
 
-<h3 align="center">
-Contribution
- </h3>
-<p align="center">
- <a href='https://github.com/Nextjs-kr/Nextjs.kr'>Next.js 공식 문서 번역</a> 참여 중
-</p>
-
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
  <a href="mailto:gktmd653@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
