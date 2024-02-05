@@ -23,15 +23,6 @@
   </a>
 </p>
 
-  <h3 align="center">
-최근 글
- </h3>
- <p align="center">
-    <a href='https://nextjs-blog-haseungdev.vercel.app/blog/%ED%85%8C%EC%98%A4%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%2016%EA%B8%B0%20%ED%9A%8C%EA%B3%A0' target='_blank'>
-     테오의 스프린트 16기 회고 
-   </a>
- </p>
-
 
 
 
