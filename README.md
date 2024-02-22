@@ -18,8 +18,8 @@
 블로그
  </h3>
 <p align="center">
-  <a href="https://nextjs-blog-haseungdev.vercel.app/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss" />
+  <a href="https://morethan-haseung-log.vercel.app/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
 </p>
 
