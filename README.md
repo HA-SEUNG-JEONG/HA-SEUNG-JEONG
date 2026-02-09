@@ -1,27 +1,24 @@
 
 ## <p align="center">프론트엔드 개발자 정하승입니다.</p>
 
-<h3 align="center">Tech & Tools</h3>
+<h3 align="center">
+  Tech & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,tailwindcss" />
-  </a>
-</p>
- 
- </h3>
+![Frontend](https://tech-stack.wontory.dev/api/orbit?text=Frontend&slugs=react,typescript,tailwindcss,reactquery,storybook)
+</h3> 
+
 
 
 
 
   <h3 align="center">
 블로그
+    
+<a href='https://haseungdev.hashnode.dev/' target='_blank'>![badge](https://tech-stack.wontory.dev/api/badge?slug=blogger&textColor=000000)<a>
+
  </h3>
-<p align="center">
-  <a href="https://morethan-haseung-log.vercel.app/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
-</p>
+ 
+
 
 
 
@@ -36,4 +33,5 @@
 
 
 </p>
+
 
