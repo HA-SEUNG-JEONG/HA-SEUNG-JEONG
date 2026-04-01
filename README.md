@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [제로원](https://www.zeroone.it.kr/login)
 
-- 🌱 I’m currently learning **Next.js, zustand**
-
 - 📝 I regularly write articles on [https://haseungdev.hashnode.dev/](https://haseungdev.hashnode.dev/)
 
 - 📫 How to reach me **gktmd653@gmail.com**
