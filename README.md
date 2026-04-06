@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeong Ha seung</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ha-seung-jeong&label=Profile%20views&color=0e75b6&style=flat" alt="ha-seung-jeong" /> </p>
 
-- 🔭 I’m currently working on [제로원](https://www.zeroone.it.kr/login)
+- 🔭 I’m currently working on [제로원](https://www.zeroone.it.kr) / [Github](https://github.com/code-zero-to-one/study-platform-client)
 
 - 📝 I regularly write articles on [https://haseungdev.hashnode.dev/](https://haseungdev.hashnode.dev/)
 
