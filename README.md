@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeong Ha seung</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ha-seung-jeong&label=Profile%20views&color=0e75b6&style=flat" alt="ha-seung-jeong" /> </p>
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHA-SEUNG-JEONG&label=&icon=github&color=%23ffee05&message=&style=flat&tz=UTC)
+
 
 - 🔭 I’m currently working on [제로원](https://www.zeroone.it.kr) / [Github](https://github.com/code-zero-to-one/study-platform-client)
 
