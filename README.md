@@ -3,7 +3,7 @@
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHA-SEUNG-JEONG&label=&icon=github&color=%23ffee05&message=&style=flat&tz=UTC)
 
 
-- 🔭 I’m currently working on [제로원](https://www.zeroone.it.kr) / [Github](https://github.com/code-zero-to-one/study-platform-client)
+- 🔭 I’m currently working on [제로원 - 스터디 플랫폼 서비스](https://www.zeroone.it.kr) / [Github](https://github.com/code-zero-to-one/study-platform-client)
 
 - 📝 I regularly write articles on [https://haseungdev.hashnode.dev/](https://haseungdev.hashnode.dev/)
 
