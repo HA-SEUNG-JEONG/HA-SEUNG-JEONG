@@ -36,6 +36,7 @@
 - [input에서 숫자만 입력받도록 하기](https://haseungdev.hashnode.dev/input-number-validation-frontend-debugging)
 
 - [tailwind-merge에서 클래스네임은 어떻게 제어되는가?](https://haseungdev.hashnode.dev/tailwind-merge)
+- [Tooltip에서 asChild란](https://haseungdev.hashnode.dev/tooltip-aschild)
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
