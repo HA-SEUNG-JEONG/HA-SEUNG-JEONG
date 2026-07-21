@@ -5,7 +5,7 @@
 - I’m currently working on [제로원 - 스터디 플랫폼 서비스](https://www.zeroone.it.kr) / [Github](https://github.com/code-zero-to-one/study-platform-client)
 
 - I regularly write articles on [https://haseungdev.hashnode.dev/](https://haseungdev.hashnode.dev/)
-- I'm currently studying Zustand, React-Native, Next.js
+- I'm currently studying React-Native
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello!%20I'm%20Jeong%20Ha%20Seung&animation=&fontColor=000000&fontSize=40" />
