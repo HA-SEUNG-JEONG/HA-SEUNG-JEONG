@@ -34,6 +34,7 @@
     
 <h3 align="left">Recent Posts</h3>
 
+- [코드제로투원 프로젝트 회고](https://haseungdev.hashnode.dev/codezerotoone-retrospective)
 - [input에서 숫자만 입력받도록 하기](https://haseungdev.hashnode.dev/input-number-validation-frontend-debugging)
 
 - [tailwind-merge에서 클래스네임은 어떻게 제어되는가?](https://haseungdev.hashnode.dev/tailwind-merge)
